@@ -1,0 +1,4 @@
+echo backend/model/dataset.csv >> .gitignore
+echo *.csv >> .gitignore
+echo *.pkl >> .gitignore
+echo data/ >> .gitignore

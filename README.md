@@ -36,9 +36,6 @@ An end-to-end Machine Learning application that detects whether a message is **S
 - CSS
 - JavaScript
 
-### Model Persistence
-- Joblib
-
 ---
 
 ## 📂 Project Structure
@@ -64,11 +61,9 @@ spam-detector-app/
 │   ├── style.css
 │   └── script.js
 │
-├── notebooks/
-│   └── training.ipynb
 │
 ├── data/
-│   └── spam.csv
+│   └── dataset.csv 
 │
 └── README.md
 ```
